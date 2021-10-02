@@ -1,10 +1,22 @@
-# 每日编码任务列表
-## day01
+## Project setup
 ```
-1. 创建项目并开发环境运行与生产环境打包运行(理解内部工作)
-2. 使用git管理项目(必须有个人分支)
-3. 修改eslint配置 + 引入less
-4. 引入vue-router, 搭建整体界面路由
-5. 实现Footer组件(显示与隐藏控制)
-6. 实现Header组件(解决路由跳转与传参数的各种问题)
+npm install
 ```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
